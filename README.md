@@ -1,133 +1,179 @@
 
 <div align="center">
 
-# 👋 Hi there! I'm Gisela López
+# 👋 ¡Hola! Soy Gisela López Ramón
 
-### 💻 Software Development Student | 🇪🇸 Spain
+### 💻 Desarrolladora de Software en formación
 
-*Passionate about technology, programming and turning creative ideas into real projects.*
+🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
+
+📍 Cartagena, Murcia, España 🇪🇸
+
+*Apasionada por la tecnología, el desarrollo de software y la creación de soluciones útiles, accesibles e innovadoras.*
 
 <a href="https://www.linkedin.com/in/giselalopezr/">
-  <img src="https://img.shields.io/badge/LinkedIn-Gisela_López-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Gisela_López-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/gisela-lopezz">
-  <img src="https://img.shields.io/badge/GitHub-gisela--lopezz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-gisela--lopezz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Sobre mí
 
-- 🎓 Currently studying **Multiplatform Application Development (DAM)**.
-- 💻 Passionate about software engineering, programming and technology.
-- 🚀 Building **aprendeCode**, an educational programming platform.
-- 🎮 Developing **Beyond the Bell**, a 3D educational game using Unity.
-- 📚 Continuously improving my technical and problem-solving skills.
-- 🎯 My goal is to become a **Software Engineer**.
-- 🌍 Based in **Cartagena, Murcia, Spain**.
+Soy estudiante de **2.º de Desarrollo de Aplicaciones Multiplataforma (DAM)** en el Colegio Miralmonte.
+
+Me apasiona la programación, especialmente el desarrollo de aplicaciones, la programación orientada a objetos y la resolución de problemas mediante código.
+
+He finalizado el primer curso de DAM con una **nota media de 9,5 y cuatro matrículas de honor**.
+
+También cuento con experiencia profesional en **auditoría de accesibilidad web**, donde he trabajado en la identificación de incidencias, análisis de páginas web y propuestas de mejora.
+
+Actualmente estoy desarrollando **aprendeCode**, un proyecto educativo que combina programación y aprendizaje interactivo.
+
+🎯 Mi objetivo es seguir creciendo como desarrolladora y continuar mi formación en Ingeniería Informática.
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Tecnologías y conocimientos
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Lenguajes de programación
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,html,css" alt="Lenguajes de programación"/>
 
-### 🗄️ Databases
+### 🗄️ Bases de datos
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Bases de datos"/>
 
-### 🔧 Development Tools
+**SQL · MySQL · PostgreSQL · Oracle Database**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,androidstudio,unity,maven" alt="Development tools" />
+### 🔧 Herramientas de desarrollo
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,androidstudio" alt="Herramientas de desarrollo"/>
+
+**Git · GitHub · Gitflow · Android Studio**
 
 </div>
 
-*My experience varies across these technologies, and I'm continuously learning.*
+### 📚 Otros conocimientos
+
+- ☕ Programación orientada a objetos (POO).
+- 📱 Desarrollo de aplicaciones Android.
+- 🌐 Desarrollo web con HTML, CSS y JavaScript.
+- ♿ Auditoría y análisis de accesibilidad web.
+- 🗄️ Gestión y consultas de bases de datos relacionales.
+- 🔀 Control de versiones y flujos de trabajo con Git.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Proyecto destacado
 
 ### 📚 aprendeCode
 
-**An interactive platform for learning programming.**
+**Plataforma educativa para aprender programación de forma interactiva.**
 
-An educational project designed to help students understand programming concepts, identify coding errors and improve their problem-solving skills.
+aprendeCode es un proyecto personal enfocado en facilitar el aprendizaje de la programación, ayudando a los estudiantes a comprender sus errores y desarrollar su capacidad para resolver problemas de forma autónoma.
 
-**Planned Features:**
+La plataforma está diseñada para:
 
-- ☕ Java code analysis and error explanations.
-- 🔍 Step-by-step code execution visualization.
-- 💡 Progressive hints and interactive exercises.
-- 📊 Educational visualizations of arrays and lists.
-- 🐍 Future support for Python and SQL.
-- 🔐 User authentication and progress tracking.
+- 🔍 Analizar código Java e identificar errores de compilación.
+- 💡 Ofrecer explicaciones comprensibles y pistas progresivas.
+- ▶️ Visualizar el funcionamiento del código paso a paso.
+- 📊 Representar gráficamente estructuras como arrays y listas.
+- 📚 Fomentar el aprendizaje práctico y la comprensión del código.
 
-**Technologies:** Java, HTML, CSS, JavaScript.
+**Tecnologías:** Java, HTML, CSS y JavaScript.
 
-**Status:** 🚧 In development.
-
----
-
-### 🎮 Beyond the Bell
-
-**A 3D educational experience developed with Unity.**
-
-An interactive school environment where students can explore classrooms, interact with virtual teachers and complete programming challenges.
-
-**Planned Features:**
-
-- 🏫 First-person school exploration.
-- 👨‍🏫 Interactive virtual teachers.
-- 💻 Educational programming activities.
-- 🔗 Integration with aprendeCode.
-- 🎮 Immersive 3D environments.
-
-**Technologies:** Unity, C#.
-
-**Status:** 🚧 In development.
+**Estado:** 🚧 En desarrollo.
 
 ---
 
-## 🌱 Currently Learning
+## 💼 Experiencia profesional
 
-- ☕ Advanced Java programming.
-- 🗄️ Database design and SQL.
-- 🌐 Frontend and backend development.
-- 📱 Android application development.
-- 🎮 Game development with Unity.
-- 🧠 Software architecture and best practices.
+### ♿ Auditora de Accesibilidad Web
+**ADDAW | 2023 - 2024**
 
----
+- Auditoría y análisis de accesibilidad de páginas web.
+- Identificación de incidencias y barreras de accesibilidad.
+- Propuesta de mejoras para la experiencia de usuario.
+- Elaboración de informes y colaboración con equipos de desarrollo.
 
-## 🎯 My Goals
+### 💻 Promotora de Tecnología
+**El Corte Inglés | 2024 - 2026**
 
-- 🎓 Complete my Multiplatform Application Development degree.
-- 💻 Continue building real-world software projects.
-- 🚀 Develop and improve aprendeCode.
-- 🎮 Create an engaging educational experience with Beyond the Bell.
-- 📚 Pursue a degree in Computer Engineering.
-- 🌍 Grow professionally in the technology industry.
+- Asesoramiento sobre productos y soluciones tecnológicas.
+- Demostración de funcionalidades.
+- Resolución de dudas y comunicación de conceptos técnicos.
 
 ---
 
-## 📫 Connect With Me
+## 🎓 Formación académica
+
+### 💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
+**Colegio Miralmonte | 2025 - Actualidad**
+
+- Actualmente cursando segundo año.
+- Nota media de primero: **9,5**.
+- **4 matrículas de honor**.
+
+### 📈 Técnico Superior en Marketing y Publicidad
+**CIFP Carlos III | 2021 - 2023**
+
+- Marketing digital.
+- Comunicación y publicidad.
+- Análisis de mercado.
+
+---
+
+## 🌱 Actualmente estoy aprendiendo
+
+- ☕ Desarrollo avanzado con Java.
+- 🐍 Programación con Python.
+- 📱 Desarrollo de aplicaciones Android con Kotlin.
+- 🗄️ Bases de datos relacionales y SQL.
+- 🌐 Desarrollo web y buenas prácticas.
+- 🧠 Arquitectura de software y resolución de problemas.
+
+---
+
+## 🎯 Mis objetivos
+
+- 🎓 Finalizar el Grado Superior de DAM.
+- 💻 Seguir desarrollando aplicaciones y proyectos propios.
+- 🚀 Continuar evolucionando aprendeCode.
+- 📚 Estudiar Ingeniería Informática.
+- 🌍 Adquirir experiencia profesional en desarrollo de software.
+- ♿ Crear aplicaciones útiles, accesibles y centradas en las personas.
+
+---
+
+## 🌍 Idiomas
+
+- 🇪🇸 Español: nativo.
+- 🇬🇧 Inglés: B1.
+
+---
+
+## 📫 Contacto
 
 <div align="center">
 
+### ¿Conectamos?
+
+Estoy interesada en seguir aprendiendo, participar en nuevos proyectos y crecer profesionalmente en el sector tecnológico.
+
 <a href="https://www.linkedin.com/in/giselalopezr/">
-  <img src="https://img.shields.io/badge/LinkedIn-Gisela_López-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Gisela_López-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/gisela-lopezz">
-  <img src="https://img.shields.io/badge/GitHub-gisela--lopezz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-gisela--lopezz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -136,10 +182,11 @@ An interactive school environment where students can explore classrooms, interac
 
 <div align="center">
 
-### ✨ "Every expert was once a beginner."
+### 💙 Aprendiendo, creando y mejorando cada día.
 
-*Learning, building and growing one project at a time.*
+*Cada proyecto es una oportunidad para seguir creciendo.*
 
-💙 **Thanks for visiting my profile!**
+**¡Gracias por visitar mi perfil! 👋**
 
 </div>
+
